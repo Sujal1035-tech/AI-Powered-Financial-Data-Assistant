@@ -204,28 +204,6 @@ curl -X POST "http://localhost:8000/api/search" \
     "top_k": 5,
     "summarize": true
   }'
-
-# Get all transactions
-curl "http://localhost:8000/api/transactions?user_id=user_1&limit=10"
-
-# Get insights
-curl "http://localhost:8000/api/insights?user_id=user_1"
-```
-
-### Using Python
-```python
-import requests
-
-# Search
-response = requests.post(
-    "http://localhost:8000/api/search",
-    json={
-        "query": "What are my top expenses?",
-        "user_id": "user_1",
-        "summarize": True
-    }
-)
-print(response.json())
 ```
 
 ## 📈 Sample Output
