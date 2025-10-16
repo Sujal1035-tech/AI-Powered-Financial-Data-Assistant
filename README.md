@@ -118,7 +118,7 @@ This will create embeddings and store them in ChromaDB.
 streamlit run streamlit_app.py
 ```
 
-The app will open in your browser at `https://ai-powered-financial-data-assistant-fsgofezhq9mqbty3vmcv2t.streamlit.app/`
+The app will open in your browser at `https://ai-powered-financial-data-assistant-fsgofezhq9mqbty3vmcv2t.streamlit.app`
 
 #### Features:
 - **Search Tab**: Natural language queries
