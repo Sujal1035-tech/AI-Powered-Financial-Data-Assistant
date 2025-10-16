@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+sentence-transformers
+groq
+python-dotenv
+faker
+numpy
+pandas
+pydantic
+requests
+plotly

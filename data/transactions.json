@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "txn_36",
+    "userId": "user_1",
+    "date": "2025-04-21",
+    "description": "Net banking transfer to Medical",
+    "amount": 447,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 747557
+  },
+  {
+    "id": "txn_44",
+    "userId": "user_1",
+    "date": "2025-04-21",
+    "description": "Net banking transfer to Monthly Rent",
+    "amount": 15286,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 711255
+  },
+  {
+    "id": "txn_102",
+    "userId": "user_1",
+    "date": "2025-04-21",
+    "description": "Salary credited by Walla Ltd",
+    "amount": 58409,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 639255
+  },
+  {
+    "id": "txn_41",
+    "userId": "user_1",
+    "date": "2025-04-23",
+    "description": "Card payment at Gas Bill",
+    "amount": 1517,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 740110
+  },
+  {
+    "id": "txn_136",
+    "userId": "user_1",
+    "date": "2025-04-27",
+    "description": "Card payment at Uber",
+    "amount": 634,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 952619
+  },
+  {
+    "id": "txn_138",
+    "userId": "user_1",
+    "date": "2025-04-27",
+    "description": "UPI payment to Internet Bill",
+    "amount": 2660,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 949608
+  },
+  {
+    "id": "txn_15",
+    "userId": "user_1",
+    "date": "2025-04-28",
+    "description": "Card payment at Netflix",
+    "amount": 269,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 240309
+  },
+  {
+    "id": "txn_79",
+    "userId": "user_1",
+    "date": "2025-04-30",
+    "description": "UPI payment to Starbucks",
+    "amount": 1242,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 639909
+  },
+  {
+    "id": "txn_37",
+    "userId": "user_1",
+    "date": "2025-05-03",
+    "description": "UPI payment to Water Bill",
+    "amount": 1665,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 745892
+  },
+  {
+    "id": "txn_118",
+    "userId": "user_1",
+    "date": "2025-05-03",
+    "description": "UPI payment to Petrol",
+    "amount": 332,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 814328
+  },
+  {
+    "id": "txn_72",
+    "userId": "user_1",
+    "date": "2025-05-05",
+    "description": "Card payment at Big Basket",
+    "amount": 1440,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 684240
+  },
+  {
+    "id": "txn_87",
+    "userId": "user_1",
+    "date": "2025-05-05",
+    "description": "Card payment at Monthly Rent",
+    "amount": 17210,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 581641
+  },
+  {
+    "id": "txn_108",
+    "userId": "user_1",
+    "date": "2025-05-05",
+    "description": "UPI payment to ATM Withdrawal",
+    "amount": 1833,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 734471
+  },
+  {
+    "id": "txn_24",
+    "userId": "user_1",
+    "date": "2025-05-07",
+    "description": "UPI payment to Ajio",
+    "amount": 571,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 342936
+  },
+  {
+    "id": "txn_105",
+    "userId": "user_1",
+    "date": "2025-05-07",
+    "description": "Refund from Netflix",
+    "amount": 758,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 737631
+  },
+  {
+    "id": "txn_53",
+    "userId": "user_1",
+    "date": "2025-05-08",
+    "description": "Refund from Groceries",
+    "amount": 2047,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 696887
+  },
+  {
+    "id": "txn_43",
+    "userId": "user_1",
+    "date": "2025-05-09",
+    "description": "Net banking transfer to Ajio",
+    "amount": 3145,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 726541
+  },
+  {
+    "id": "txn_5",
+    "userId": "user_1",
+    "date": "2025-05-10",
+    "description": "UPI payment to Internet Bill",
+    "amount": 1452,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 254643
+  },
+  {
+    "id": "txn_123",
+    "userId": "user_1",
+    "date": "2025-05-11",
+    "description": "UPI payment to Dominos",
+    "amount": 963,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 808137
+  },
+  {
+    "id": "txn_134",
+    "userId": "user_1",
+    "date": "2025-05-11",
+    "description": "Card payment at Water Bill",
+    "amount": 941,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 955577
+  },
+  {
+    "id": "txn_77",
+    "userId": "user_1",
+    "date": "2025-05-13",
+    "description": "UPI payment to Ola",
+    "amount": 491,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 657810
+  },
+  {
+    "id": "txn_16",
+    "userId": "user_1",
+    "date": "2025-05-16",
+    "description": "UPI payment to Zomato",
+    "amount": 1064,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 239245
+  },
+  {
+    "id": "txn_20",
+    "userId": "user_1",
+    "date": "2025-05-16",
+    "description": "Refund from Flight Booking",
+    "amount": 1866,
+    "type": "Credit",
+    "category": "Travel",
+    "balance": 225331
+  },
+  {
+    "id": "txn_78",
+    "userId": "user_1",
+    "date": "2025-05-16",
+    "description": "Card payment at Monthly Rent",
+    "amount": 16659,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 641151
+  },
+  {
+    "id": "txn_38",
+    "userId": "user_1",
+    "date": "2025-05-17",
+    "description": "Net banking transfer to McDonald's",
+    "amount": 491,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 745401
+  },
+  {
+    "id": "txn_50",
+    "userId": "user_1",
+    "date": "2025-05-17",
+    "description": "UPI payment to Starbucks",
+    "amount": 1201,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 720265
+  },
+  {
+    "id": "txn_84",
+    "userId": "user_1",
+    "date": "2025-05-17",
+    "description": "Card payment at Water Bill",
+    "amount": 751,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 616978
+  },
+  {
+    "id": "txn_88",
+    "userId": "user_1",
+    "date": "2025-05-17",
+    "description": "UPI payment to Spotify",
+    "amount": 719,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 580922
+  },
+  {
+    "id": "txn_115",
+    "userId": "user_1",
+    "date": "2025-05-17",
+    "description": "UPI payment to Train Ticket",
+    "amount": 407,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 816138
+  },
+  {
+    "id": "txn_51",
+    "userId": "user_1",
+    "date": "2025-05-18",
+    "description": "UPI payment to Myntra",
+    "amount": 3766,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 716499
+  },
+  {
+    "id": "txn_74",
+    "userId": "user_1",
+    "date": "2025-05-19",
+    "description": "Net banking transfer to Apartment Rent",
+    "amount": 14882,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 667120
+  },
+  {
+    "id": "txn_104",
+    "userId": "user_1",
+    "date": "2025-05-21",
+    "description": "Net banking transfer to Big Basket",
+    "amount": 4094,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 736873
+  },
+  {
+    "id": "txn_145",
+    "userId": "user_1",
+    "date": "2025-05-21",
+    "description": "UPI payment to Myntra",
+    "amount": 851,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1046606
+  },
+  {
+    "id": "txn_19",
+    "userId": "user_1",
+    "date": "2025-05-22",
+    "description": "Card payment at Movie Ticket",
+    "amount": 281,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 223465
+  },
+  {
+    "id": "txn_133",
+    "userId": "user_1",
+    "date": "2025-05-22",
+    "description": "Refund from BookMyShow",
+    "amount": 981,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 956518
+  },
+  {
+    "id": "txn_9",
+    "userId": "user_1",
+    "date": "2025-05-23",
+    "description": "Net banking transfer to Insurance",
+    "amount": 2614,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 247753
+  },
+  {
+    "id": "txn_129",
+    "userId": "user_1",
+    "date": "2025-05-24",
+    "description": "Refund from House Rent",
+    "amount": 20851,
+    "type": "Credit",
+    "category": "Rent",
+    "balance": 879986
+  },
+  {
+    "id": "txn_80",
+    "userId": "user_1",
+    "date": "2025-05-25",
+    "description": "UPI payment to Rapido",
+    "amount": 1890,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 638019
+  },
+  {
+    "id": "txn_62",
+    "userId": "user_1",
+    "date": "2025-05-26",
+    "description": "Net banking transfer to Movie Ticket",
+    "amount": 375,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 650821
+  },
+  {
+    "id": "txn_48",
+    "userId": "user_1",
+    "date": "2025-05-28",
+    "description": "Net banking transfer to Apartment Rent",
+    "amount": 8568,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 721789
+  },
+  {
+    "id": "txn_1",
+    "userId": "user_1",
+    "date": "2025-05-29",
+    "description": "UPI payment to Water Bill",
+    "amount": 1440,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 110878
+  },
+  {
+    "id": "txn_28",
+    "userId": "user_1",
+    "date": "2025-05-30",
+    "description": "Salary credited by Sangha-Mani",
+    "amount": 143484,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 562109
+  },
+  {
+    "id": "txn_27",
+    "userId": "user_1",
+    "date": "2025-06-02",
+    "description": "Card payment at Groceries",
+    "amount": 2777,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 418625
+  },
+  {
+    "id": "txn_23",
+    "userId": "user_1",
+    "date": "2025-06-03",
+    "description": "Net banking transfer to Internet Bill",
+    "amount": 2742,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 343507
+  },
+  {
+    "id": "txn_61",
+    "userId": "user_1",
+    "date": "2025-06-03",
+    "description": "UPI payment to House Rent",
+    "amount": 14721,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 651196
+  },
+  {
+    "id": "txn_121",
+    "userId": "user_1",
+    "date": "2025-06-03",
+    "description": "UPI payment to Flipkart",
+    "amount": 903,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 810586
+  },
+  {
+    "id": "txn_13",
+    "userId": "user_1",
+    "date": "2025-06-04",
+    "description": "Refund from Insurance",
+    "amount": 1538,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 243381
+  },
+  {
+    "id": "txn_30",
+    "userId": "user_1",
+    "date": "2025-06-04",
+    "description": "Salary credited by Bhatti, Bal and Datta",
+    "amount": 110034,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 671924
+  },
+  {
+    "id": "txn_148",
+    "userId": "user_1",
+    "date": "2025-06-05",
+    "description": "Net banking transfer to Internet Bill",
+    "amount": 1663,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1026383
+  },
+  {
+    "id": "txn_22",
+    "userId": "user_1",
+    "date": "2025-06-06",
+    "description": "Card payment at Bank Charges",
+    "amount": 555,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 346249
+  },
+  {
+    "id": "txn_32",
+    "userId": "user_1",
+    "date": "2025-06-06",
+    "description": "Card payment at Bank Charges",
+    "amount": 119,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 671141
+  },
+  {
+    "id": "txn_99",
+    "userId": "user_1",
+    "date": "2025-06-07",
+    "description": "UPI payment to Train Ticket",
+    "amount": 1914,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 601719
+  },
+  {
+    "id": "txn_25",
+    "userId": "user_1",
+    "date": "2025-06-08",
+    "description": "UPI payment to Monthly Rent",
+    "amount": 11806,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 331130
+  },
+  {
+    "id": "txn_54",
+    "userId": "user_1",
+    "date": "2025-06-08",
+    "description": "Card payment at Bank Charges",
+    "amount": 849,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 696038
+  },
+  {
+    "id": "txn_110",
+    "userId": "user_1",
+    "date": "2025-06-08",
+    "description": "Refund from Amazon Prime",
+    "amount": 470,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 837894
+  },
+  {
+    "id": "txn_103",
+    "userId": "user_1",
+    "date": "2025-06-09",
+    "description": "Salary credited by Vora Group",
+    "amount": 101712,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 740967
+  },
+  {
+    "id": "txn_147",
+    "userId": "user_1",
+    "date": "2025-06-09",
+    "description": "UPI payment to Swiggy",
+    "amount": 735,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1028046
+  },
+  {
+    "id": "txn_35",
+    "userId": "user_1",
+    "date": "2025-06-10",
+    "description": "Card payment at Movie Ticket",
+    "amount": 588,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 748004
+  },
+  {
+    "id": "txn_120",
+    "userId": "user_1",
+    "date": "2025-06-10",
+    "description": "Net banking transfer to Ajio",
+    "amount": 1543,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 811489
+  },
+  {
+    "id": "txn_109",
+    "userId": "user_1",
+    "date": "2025-06-12",
+    "description": "Salary credited by Bhargava, Bath and Saha",
+    "amount": 102953,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 837424
+  },
+  {
+    "id": "txn_122",
+    "userId": "user_1",
+    "date": "2025-06-12",
+    "description": "Net banking transfer to Swiggy",
+    "amount": 1486,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 809100
+  },
+  {
+    "id": "txn_144",
+    "userId": "user_1",
+    "date": "2025-06-13",
+    "description": "UPI payment to Amazon",
+    "amount": 4988,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1047457
+  },
+  {
+    "id": "txn_73",
+    "userId": "user_1",
+    "date": "2025-06-17",
+    "description": "Card payment at Bank Charges",
+    "amount": 2238,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 682002
+  },
+  {
+    "id": "txn_71",
+    "userId": "user_1",
+    "date": "2025-06-18",
+    "description": "Salary credited by Deshpande, Varghese and Halder",
+    "amount": 79353,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 685680
+  },
+  {
+    "id": "txn_125",
+    "userId": "user_1",
+    "date": "2025-06-18",
+    "description": "Net banking transfer to Water Bill",
+    "amount": 1717,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 806049
+  },
+  {
+    "id": "txn_10",
+    "userId": "user_1",
+    "date": "2025-06-19",
+    "description": "Card payment at Zomato",
+    "amount": 282,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 247471
+  },
+  {
+    "id": "txn_128",
+    "userId": "user_1",
+    "date": "2025-06-22",
+    "description": "UPI payment to Rapido",
+    "amount": 1971,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 859135
+  },
+  {
+    "id": "txn_2",
+    "userId": "user_1",
+    "date": "2025-06-24",
+    "description": "Net banking transfer to Rapido",
+    "amount": 725,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 110153
+  },
+  {
+    "id": "txn_57",
+    "userId": "user_1",
+    "date": "2025-06-24",
+    "description": "Card payment at BookMyShow",
+    "amount": 573,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 670019
+  },
+  {
+    "id": "txn_85",
+    "userId": "user_1",
+    "date": "2025-06-24",
+    "description": "Card payment at Spotify",
+    "amount": 734,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 616244
+  },
+  {
+    "id": "txn_119",
+    "userId": "user_1",
+    "date": "2025-06-25",
+    "description": "Net banking transfer to Starbucks",
+    "amount": 1296,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 813032
+  },
+  {
+    "id": "txn_97",
+    "userId": "user_1",
+    "date": "2025-06-27",
+    "description": "Net banking transfer to Spotify",
+    "amount": 424,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 604673
+  },
+  {
+    "id": "txn_66",
+    "userId": "user_1",
+    "date": "2025-06-28",
+    "description": "Refund from Rapido",
+    "amount": 1277,
+    "type": "Credit",
+    "category": "Travel",
+    "balance": 649848
+  },
+  {
+    "id": "txn_39",
+    "userId": "user_1",
+    "date": "2025-06-29",
+    "description": "Net banking transfer to Train Ticket",
+    "amount": 1563,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 743838
+  },
+  {
+    "id": "txn_67",
+    "userId": "user_1",
+    "date": "2025-06-29",
+    "description": "UPI payment to House Rent",
+    "amount": 8992,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 640856
+  },
+  {
+    "id": "txn_143",
+    "userId": "user_1",
+    "date": "2025-06-29",
+    "description": "UPI payment to DMart",
+    "amount": 1632,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1052445
+  },
+  {
+    "id": "txn_150",
+    "userId": "user_1",
+    "date": "2025-06-29",
+    "description": "Card payment at Groceries",
+    "amount": 1404,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1023070
+  },
+  {
+    "id": "txn_70",
+    "userId": "user_1",
+    "date": "2025-06-30",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 8080,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 606327
+  },
+  {
+    "id": "txn_69",
+    "userId": "user_1",
+    "date": "2025-07-07",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 15502,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 614407
+  },
+  {
+    "id": "txn_21",
+    "userId": "user_1",
+    "date": "2025-07-08",
+    "description": "Salary credited by Barman Group",
+    "amount": 121473,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 346804
+  },
+  {
+    "id": "txn_149",
+    "userId": "user_1",
+    "date": "2025-07-12",
+    "description": "Net banking transfer to Train Ticket",
+    "amount": 1909,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1024474
+  },
+  {
+    "id": "txn_34",
+    "userId": "user_1",
+    "date": "2025-07-13",
+    "description": "UPI payment to Dominos",
+    "amount": 1315,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 748592
+  },
+  {
+    "id": "txn_112",
+    "userId": "user_1",
+    "date": "2025-07-13",
+    "description": "UPI payment to Bank Charges",
+    "amount": 266,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 835312
+  },
+  {
+    "id": "txn_96",
+    "userId": "user_1",
+    "date": "2025-07-15",
+    "description": "Salary credited by Kaul, Varughese and Krishnamurthy",
+    "amount": 56719,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 605097
+  },
+  {
+    "id": "txn_40",
+    "userId": "user_1",
+    "date": "2025-07-17",
+    "description": "Net banking transfer to ATM Withdrawal",
+    "amount": 2211,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 741627
+  },
+  {
+    "id": "txn_75",
+    "userId": "user_1",
+    "date": "2025-07-17",
+    "description": "Card payment at Monthly Rent",
+    "amount": 10036,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 657084
+  },
+  {
+    "id": "txn_26",
+    "userId": "user_1",
+    "date": "2025-07-18",
+    "description": "Salary credited by Walia-Mangat",
+    "amount": 90272,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 421402
+  },
+  {
+    "id": "txn_64",
+    "userId": "user_1",
+    "date": "2025-07-19",
+    "description": "Refund from Train Ticket",
+    "amount": 207,
+    "type": "Credit",
+    "category": "Travel",
+    "balance": 649284
+  },
+  {
+    "id": "txn_45",
+    "userId": "user_1",
+    "date": "2025-07-22",
+    "description": "Refund from House Rent",
+    "amount": 15761,
+    "type": "Credit",
+    "category": "Rent",
+    "balance": 727016
+  },
+  {
+    "id": "txn_93",
+    "userId": "user_1",
+    "date": "2025-07-22",
+    "description": "Net banking transfer to Spotify",
+    "amount": 270,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 574631
+  },
+  {
+    "id": "txn_107",
+    "userId": "user_1",
+    "date": "2025-07-22",
+    "description": "Net banking transfer to Swiggy",
+    "amount": 247,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 736304
+  },
+  {
+    "id": "txn_95",
+    "userId": "user_1",
+    "date": "2025-07-23",
+    "description": "Net banking transfer to Monthly Rent",
+    "amount": 24326,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 548378
+  },
+  {
+    "id": "txn_58",
+    "userId": "user_1",
+    "date": "2025-07-25",
+    "description": "UPI payment to Myntra",
+    "amount": 1226,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 668793
+  },
+  {
+    "id": "txn_6",
+    "userId": "user_1",
+    "date": "2025-07-26",
+    "description": "UPI payment to Myntra",
+    "amount": 1926,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 252717
+  },
+  {
+    "id": "txn_47",
+    "userId": "user_1",
+    "date": "2025-07-27",
+    "description": "Refund from Electricity Bill",
+    "amount": 981,
+    "type": "Credit",
+    "category": "Utilities",
+    "balance": 730357
+  },
+  {
+    "id": "txn_113",
+    "userId": "user_1",
+    "date": "2025-07-27",
+    "description": "Net banking transfer to Petrol",
+    "amount": 1881,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 833431
+  },
+  {
+    "id": "txn_65",
+    "userId": "user_1",
+    "date": "2025-07-28",
+    "description": "Net banking transfer to Local Restaurant",
+    "amount": 713,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 648571
+  },
+  {
+    "id": "txn_52",
+    "userId": "user_1",
+    "date": "2025-07-29",
+    "description": "Card payment at House Rent",
+    "amount": 21659,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 694840
+  },
+  {
+    "id": "txn_91",
+    "userId": "user_1",
+    "date": "2025-07-30",
+    "description": "UPI payment to Flipkart",
+    "amount": 1605,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 578381
+  },
+  {
+    "id": "txn_140",
+    "userId": "user_1",
+    "date": "2025-08-01",
+    "description": "UPI payment to Ajio",
+    "amount": 3771,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 944595
+  },
+  {
+    "id": "txn_137",
+    "userId": "user_1",
+    "date": "2025-08-04",
+    "description": "UPI payment to BookMyShow",
+    "amount": 351,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 952268
+  },
+  {
+    "id": "txn_146",
+    "userId": "user_1",
+    "date": "2025-08-04",
+    "description": "UPI payment to Monthly Rent",
+    "amount": 17825,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1028781
+  },
+  {
+    "id": "txn_31",
+    "userId": "user_1",
+    "date": "2025-08-08",
+    "description": "UPI payment to Movie Ticket",
+    "amount": 664,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 671260
+  },
+  {
+    "id": "txn_90",
+    "userId": "user_1",
+    "date": "2025-08-08",
+    "description": "Refund from Amazon Prime",
+    "amount": 727,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 579986
+  },
+  {
+    "id": "txn_100",
+    "userId": "user_1",
+    "date": "2025-08-10",
+    "description": "UPI payment to Monthly Rent",
+    "amount": 20378,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 581341
+  },
+  {
+    "id": "txn_12",
+    "userId": "user_1",
+    "date": "2025-08-11",
+    "description": "UPI payment to DMart",
+    "amount": 3690,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 241843
+  },
+  {
+    "id": "txn_33",
+    "userId": "user_1",
+    "date": "2025-08-12",
+    "description": "Salary credited by Bhasin PLC",
+    "amount": 78766,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 749907
+  },
+  {
+    "id": "txn_14",
+    "userId": "user_1",
+    "date": "2025-08-15",
+    "description": "UPI payment to Big Basket",
+    "amount": 2803,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 240578
+  },
+  {
+    "id": "txn_55",
+    "userId": "user_1",
+    "date": "2025-08-15",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 22508,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 673530
+  },
+  {
+    "id": "txn_42",
+    "userId": "user_1",
+    "date": "2025-08-16",
+    "description": "Net banking transfer to House Rent",
+    "amount": 10424,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 729686
+  },
+  {
+    "id": "txn_76",
+    "userId": "user_1",
+    "date": "2025-08-17",
+    "description": "Refund from McDonald's",
+    "amount": 1217,
+    "type": "Credit",
+    "category": "Food",
+    "balance": 658301
+  },
+  {
+    "id": "txn_11",
+    "userId": "user_1",
+    "date": "2025-08-18",
+    "description": "Card payment at Gas Bill",
+    "amount": 1938,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 245533
+  },
+  {
+    "id": "txn_63",
+    "userId": "user_1",
+    "date": "2025-08-18",
+    "description": "UPI payment to Train Ticket",
+    "amount": 1744,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 649077
+  },
+  {
+    "id": "txn_111",
+    "userId": "user_1",
+    "date": "2025-08-18",
+    "description": "Card payment at Bank Charges",
+    "amount": 2316,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 835578
+  },
+  {
+    "id": "txn_83",
+    "userId": "user_1",
+    "date": "2025-08-19",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 17542,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 617729
+  },
+  {
+    "id": "txn_68",
+    "userId": "user_1",
+    "date": "2025-08-20",
+    "description": "Card payment at Monthly Rent",
+    "amount": 10947,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 629909
+  },
+  {
+    "id": "txn_135",
+    "userId": "user_1",
+    "date": "2025-08-20",
+    "description": "UPI payment to Internet Bill",
+    "amount": 2324,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 953253
+  },
+  {
+    "id": "txn_60",
+    "userId": "user_1",
+    "date": "2025-08-25",
+    "description": "Net banking transfer to Gas Bill",
+    "amount": 1459,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 665917
+  },
+  {
+    "id": "txn_130",
+    "userId": "user_1",
+    "date": "2025-08-25",
+    "description": "Refund from Dominos",
+    "amount": 1391,
+    "type": "Credit",
+    "category": "Food",
+    "balance": 881377
+  },
+  {
+    "id": "txn_126",
+    "userId": "user_1",
+    "date": "2025-08-26",
+    "description": "Card payment at Netflix",
+    "amount": 213,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 805836
+  },
+  {
+    "id": "txn_82",
+    "userId": "user_1",
+    "date": "2025-08-29",
+    "description": "Net banking transfer to Water Bill",
+    "amount": 1933,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 635271
+  },
+  {
+    "id": "txn_106",
+    "userId": "user_1",
+    "date": "2025-08-29",
+    "description": "Card payment at Swiggy",
+    "amount": 1080,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 736551
+  },
+  {
+    "id": "txn_127",
+    "userId": "user_1",
+    "date": "2025-08-31",
+    "description": "Salary credited by Varkey-Bala",
+    "amount": 55270,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 861106
+  },
+  {
+    "id": "txn_114",
+    "userId": "user_1",
+    "date": "2025-09-01",
+    "description": "UPI payment to House Rent",
+    "amount": 16886,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 816545
+  },
+  {
+    "id": "txn_59",
+    "userId": "user_1",
+    "date": "2025-09-06",
+    "description": "Net banking transfer to Petrol",
+    "amount": 1417,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 667376
+  },
+  {
+    "id": "txn_101",
+    "userId": "user_1",
+    "date": "2025-09-07",
+    "description": "Net banking transfer to Local Restaurant",
+    "amount": 495,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 580846
+  },
+  {
+    "id": "txn_116",
+    "userId": "user_1",
+    "date": "2025-09-07",
+    "description": "Net banking transfer to Spotify",
+    "amount": 525,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 815613
+  },
+  {
+    "id": "txn_89",
+    "userId": "user_1",
+    "date": "2025-09-10",
+    "description": "Card payment at Insurance",
+    "amount": 1663,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 579259
+  },
+  {
+    "id": "txn_46",
+    "userId": "user_1",
+    "date": "2025-09-14",
+    "description": "Refund from Big Basket",
+    "amount": 2360,
+    "type": "Credit",
+    "category": "Shopping",
+    "balance": 729376
+  },
+  {
+    "id": "txn_17",
+    "userId": "user_1",
+    "date": "2025-09-15",
+    "description": "Net banking transfer to House Rent",
+    "amount": 14913,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 224332
+  },
+  {
+    "id": "txn_86",
+    "userId": "user_1",
+    "date": "2025-09-16",
+    "description": "Net banking transfer to Apartment Rent",
+    "amount": 17393,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 598851
+  },
+  {
+    "id": "txn_117",
+    "userId": "user_1",
+    "date": "2025-09-16",
+    "description": "Card payment at ATM Withdrawal",
+    "amount": 953,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 814660
+  },
+  {
+    "id": "txn_49",
+    "userId": "user_1",
+    "date": "2025-09-20",
+    "description": "UPI payment to Ola",
+    "amount": 323,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 721466
+  },
+  {
+    "id": "txn_131",
+    "userId": "user_1",
+    "date": "2025-09-21",
+    "description": "UPI payment to Gas Bill",
+    "amount": 1365,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 880012
+  },
+  {
+    "id": "txn_29",
+    "userId": "user_1",
+    "date": "2025-09-22",
+    "description": "Card payment at McDonald's",
+    "amount": 219,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 561890
+  },
+  {
+    "id": "txn_92",
+    "userId": "user_1",
+    "date": "2025-09-22",
+    "description": "UPI payment to Ajio",
+    "amount": 3480,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 574901
+  },
+  {
+    "id": "txn_124",
+    "userId": "user_1",
+    "date": "2025-09-22",
+    "description": "UPI payment to Electricity Bill",
+    "amount": 371,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 807766
+  },
+  {
+    "id": "txn_132",
+    "userId": "user_1",
+    "date": "2025-09-25",
+    "description": "Salary credited by Chhabra, Thaman and Roy",
+    "amount": 75525,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 955537
+  },
+  {
+    "id": "txn_142",
+    "userId": "user_1",
+    "date": "2025-09-25",
+    "description": "Salary credited by Kaul-Panchal",
+    "amount": 110187,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1054077
+  },
+  {
+    "id": "txn_8",
+    "userId": "user_1",
+    "date": "2025-09-27",
+    "description": "UPI payment to Gas Bill",
+    "amount": 789,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 250367
+  },
+  {
+    "id": "txn_56",
+    "userId": "user_1",
+    "date": "2025-09-29",
+    "description": "Card payment at Insurance",
+    "amount": 2938,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 670592
+  },
+  {
+    "id": "txn_18",
+    "userId": "user_1",
+    "date": "2025-09-30",
+    "description": "Net banking transfer to BookMyShow",
+    "amount": 586,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 223746
+  },
+  {
+    "id": "txn_81",
+    "userId": "user_1",
+    "date": "2025-10-01",
+    "description": "UPI payment to Local Restaurant",
+    "amount": 815,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 637204
+  },
+  {
+    "id": "txn_7",
+    "userId": "user_1",
+    "date": "2025-10-03",
+    "description": "Card payment at Train Ticket",
+    "amount": 1561,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 251156
+  },
+  {
+    "id": "txn_94",
+    "userId": "user_1",
+    "date": "2025-10-05",
+    "description": "Net banking transfer to Gas Bill",
+    "amount": 1927,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 572704
+  },
+  {
+    "id": "txn_141",
+    "userId": "user_1",
+    "date": "2025-10-05",
+    "description": "Net banking transfer to Netflix",
+    "amount": 705,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 943890
+  },
+  {
+    "id": "txn_139",
+    "userId": "user_1",
+    "date": "2025-10-08",
+    "description": "UPI payment to Groceries",
+    "amount": 1242,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 948366
+  },
+  {
+    "id": "txn_3",
+    "userId": "user_1",
+    "date": "2025-10-10",
+    "description": "UPI payment to Swiggy",
+    "amount": 1046,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 109107
+  },
+  {
+    "id": "txn_4",
+    "userId": "user_1",
+    "date": "2025-10-13",
+    "description": "Salary credited by Varkey-Sehgal",
+    "amount": 146988,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 256095
+  },
+  {
+    "id": "txn_98",
+    "userId": "user_1",
+    "date": "2025-10-13",
+    "description": "Card payment at Petrol",
+    "amount": 1040,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 603633
+  },
+  {
+    "id": "txn_276",
+    "userId": "user_2",
+    "date": "2025-04-20",
+    "description": "Net banking transfer to Medical",
+    "amount": 1600,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 2476744
+  },
+  {
+    "id": "txn_193",
+    "userId": "user_2",
+    "date": "2025-04-21",
+    "description": "Refund from Insurance",
+    "amount": 294,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 963667
+  },
+  {
+    "id": "txn_237",
+    "userId": "user_2",
+    "date": "2025-04-22",
+    "description": "Salary credited by Raman and Sons",
+    "amount": 91020,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1811245
+  },
+  {
+    "id": "txn_288",
+    "userId": "user_2",
+    "date": "2025-04-22",
+    "description": "Net banking transfer to Monthly Rent",
+    "amount": 8515,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2456047
+  },
+  {
+    "id": "txn_169",
+    "userId": "user_2",
+    "date": "2025-04-23",
+    "description": "UPI payment to Ola",
+    "amount": 873,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 780366
+  },
+  {
+    "id": "txn_185",
+    "userId": "user_2",
+    "date": "2025-04-23",
+    "description": "UPI payment to ATM Withdrawal",
+    "amount": 2447,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 935151
+  },
+  {
+    "id": "txn_217",
+    "userId": "user_2",
+    "date": "2025-04-23",
+    "description": "Net banking transfer to House Rent",
+    "amount": 13724,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1296314
+  },
+  {
+    "id": "txn_265",
+    "userId": "user_2",
+    "date": "2025-04-23",
+    "description": "Card payment at Apartment Rent",
+    "amount": 16221,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2238250
+  },
+  {
+    "id": "txn_266",
+    "userId": "user_2",
+    "date": "2025-04-24",
+    "description": "Salary credited by Dasgupta Inc",
+    "amount": 117570,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2355820
+  },
+  {
+    "id": "txn_159",
+    "userId": "user_2",
+    "date": "2025-04-25",
+    "description": "Salary credited by Lalla Group",
+    "amount": 136077,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 339257
+  },
+  {
+    "id": "txn_202",
+    "userId": "user_2",
+    "date": "2025-04-27",
+    "description": "Card payment at Monthly Rent",
+    "amount": 9348,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1079052
+  },
+  {
+    "id": "txn_203",
+    "userId": "user_2",
+    "date": "2025-04-27",
+    "description": "Card payment at Local Restaurant",
+    "amount": 1135,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1077917
+  },
+  {
+    "id": "txn_192",
+    "userId": "user_2",
+    "date": "2025-04-29",
+    "description": "UPI payment to Ajio",
+    "amount": 4366,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 963373
+  },
+  {
+    "id": "txn_300",
+    "userId": "user_2",
+    "date": "2025-05-01",
+    "description": "Net banking transfer to Mobile Recharge",
+    "amount": 776,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 2412759
+  },
+  {
+    "id": "txn_189",
+    "userId": "user_2",
+    "date": "2025-05-02",
+    "description": "Net banking transfer to Apartment Rent",
+    "amount": 16749,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 968225
+  },
+  {
+    "id": "txn_229",
+    "userId": "user_2",
+    "date": "2025-05-02",
+    "description": "UPI payment to Water Bill",
+    "amount": 1972,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1434437
+  },
+  {
+    "id": "txn_207",
+    "userId": "user_2",
+    "date": "2025-05-05",
+    "description": "Salary credited by Agrawal, Butala and Parekh",
+    "amount": 97070,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1303973
+  },
+  {
+    "id": "txn_188",
+    "userId": "user_2",
+    "date": "2025-05-06",
+    "description": "Card payment at Mobile Recharge",
+    "amount": 1361,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 984974
+  },
+  {
+    "id": "txn_248",
+    "userId": "user_2",
+    "date": "2025-05-07",
+    "description": "Net banking transfer to Spotify",
+    "amount": 494,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1898675
+  },
+  {
+    "id": "txn_151",
+    "userId": "user_2",
+    "date": "2025-05-09",
+    "description": "Refund from Apartment Rent",
+    "amount": 10077,
+    "type": "Credit",
+    "category": "Rent",
+    "balance": 64429
+  },
+  {
+    "id": "txn_238",
+    "userId": "user_2",
+    "date": "2025-05-09",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 22159,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1789086
+  },
+  {
+    "id": "txn_297",
+    "userId": "user_2",
+    "date": "2025-05-10",
+    "description": "Card payment at ATM Withdrawal",
+    "amount": 2744,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 2416437
+  },
+  {
+    "id": "txn_168",
+    "userId": "user_2",
+    "date": "2025-05-11",
+    "description": "UPI payment to Uber",
+    "amount": 799,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 781239
+  },
+  {
+    "id": "txn_294",
+    "userId": "user_2",
+    "date": "2025-05-11",
+    "description": "Net banking transfer to Electricity Bill",
+    "amount": 1564,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 2421777
+  },
+  {
+    "id": "txn_157",
+    "userId": "user_2",
+    "date": "2025-05-16",
+    "description": "Card payment at Flight Booking",
+    "amount": 753,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 205265
+  },
+  {
+    "id": "txn_156",
+    "userId": "user_2",
+    "date": "2025-05-17",
+    "description": "UPI payment to Netflix",
+    "amount": 230,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 206018
+  },
+  {
+    "id": "txn_187",
+    "userId": "user_2",
+    "date": "2025-05-17",
+    "description": "Salary credited by Mishra-Ramachandran",
+    "amount": 63879,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 986335
+  },
+  {
+    "id": "txn_222",
+    "userId": "user_2",
+    "date": "2025-05-18",
+    "description": "Salary credited by Nadkarni-Magar",
+    "amount": 66287,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1339835
+  },
+  {
+    "id": "txn_232",
+    "userId": "user_2",
+    "date": "2025-05-18",
+    "description": "Salary credited by Guha and Sons",
+    "amount": 91133,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1523206
+  },
+  {
+    "id": "txn_273",
+    "userId": "user_2",
+    "date": "2025-05-19",
+    "description": "UPI payment to ATM Withdrawal",
+    "amount": 2232,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 2323331
+  },
+  {
+    "id": "txn_152",
+    "userId": "user_2",
+    "date": "2025-05-20",
+    "description": "Net banking transfer to Zomato",
+    "amount": 358,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 64071
+  },
+  {
+    "id": "txn_243",
+    "userId": "user_2",
+    "date": "2025-05-21",
+    "description": "UPI payment to Rapido",
+    "amount": 871,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1783591
+  },
+  {
+    "id": "txn_245",
+    "userId": "user_2",
+    "date": "2025-05-23",
+    "description": "UPI payment to House Rent",
+    "amount": 22433,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1759282
+  },
+  {
+    "id": "txn_196",
+    "userId": "user_2",
+    "date": "2025-05-24",
+    "description": "Card payment at Flight Booking",
+    "amount": 724,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 961908
+  },
+  {
+    "id": "txn_281",
+    "userId": "user_2",
+    "date": "2025-05-24",
+    "description": "Card payment at Myntra",
+    "amount": 3206,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 2468658
+  },
+  {
+    "id": "txn_260",
+    "userId": "user_2",
+    "date": "2025-05-25",
+    "description": "UPI payment to McDonald's",
+    "amount": 701,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 2181595
+  },
+  {
+    "id": "txn_224",
+    "userId": "user_2",
+    "date": "2025-05-26",
+    "description": "Card payment at Local Restaurant",
+    "amount": 1454,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1337487
+  },
+  {
+    "id": "txn_223",
+    "userId": "user_2",
+    "date": "2025-05-29",
+    "description": "Net banking transfer to Spotify",
+    "amount": 894,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1338941
+  },
+  {
+    "id": "txn_289",
+    "userId": "user_2",
+    "date": "2025-06-02",
+    "description": "Card payment at McDonald's",
+    "amount": 684,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 2455363
+  },
+  {
+    "id": "txn_285",
+    "userId": "user_2",
+    "date": "2025-06-04",
+    "description": "Net banking transfer to Groceries",
+    "amount": 1312,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 2465983
+  },
+  {
+    "id": "txn_275",
+    "userId": "user_2",
+    "date": "2025-06-07",
+    "description": "Salary credited by Kaul-Amble",
+    "amount": 69976,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2478344
+  },
+  {
+    "id": "txn_264",
+    "userId": "user_2",
+    "date": "2025-06-08",
+    "description": "UPI payment to McDonald's",
+    "amount": 1441,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 2254471
+  },
+  {
+    "id": "txn_271",
+    "userId": "user_2",
+    "date": "2025-06-08",
+    "description": "Net banking transfer to Flipkart",
+    "amount": 1024,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 2327423
+  },
+  {
+    "id": "txn_234",
+    "userId": "user_2",
+    "date": "2025-06-09",
+    "description": "Salary credited by Deshpande LLC",
+    "amount": 84508,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1723310
+  },
+  {
+    "id": "txn_214",
+    "userId": "user_2",
+    "date": "2025-06-11",
+    "description": "UPI payment to Insurance",
+    "amount": 2954,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1313435
+  },
+  {
+    "id": "txn_219",
+    "userId": "user_2",
+    "date": "2025-06-11",
+    "description": "Net banking transfer to Train Ticket",
+    "amount": 1320,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1294298
+  },
+  {
+    "id": "txn_240",
+    "userId": "user_2",
+    "date": "2025-06-11",
+    "description": "Net banking transfer to Internet Bill",
+    "amount": 248,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1787944
+  },
+  {
+    "id": "txn_221",
+    "userId": "user_2",
+    "date": "2025-06-13",
+    "description": "Net banking transfer to House Rent",
+    "amount": 18256,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1273548
+  },
+  {
+    "id": "txn_154",
+    "userId": "user_2",
+    "date": "2025-06-14",
+    "description": "Salary credited by Dalal, Kothari and Bawa",
+    "amount": 140840,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 203769
+  },
+  {
+    "id": "txn_167",
+    "userId": "user_2",
+    "date": "2025-06-14",
+    "description": "Card payment at Movie Ticket",
+    "amount": 270,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 782038
+  },
+  {
+    "id": "txn_179",
+    "userId": "user_2",
+    "date": "2025-06-14",
+    "description": "Card payment at ATM Withdrawal",
+    "amount": 541,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 959239
+  },
+  {
+    "id": "txn_212",
+    "userId": "user_2",
+    "date": "2025-06-14",
+    "description": "Refund from Mobile Recharge",
+    "amount": 565,
+    "type": "Credit",
+    "category": "Utilities",
+    "balance": 1316938
+  },
+  {
+    "id": "txn_198",
+    "userId": "user_2",
+    "date": "2025-06-17",
+    "description": "Card payment at ATM Withdrawal",
+    "amount": 1678,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1011697
+  },
+  {
+    "id": "txn_284",
+    "userId": "user_2",
+    "date": "2025-06-18",
+    "description": "Card payment at Rapido",
+    "amount": 1667,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 2467295
+  },
+  {
+    "id": "txn_166",
+    "userId": "user_2",
+    "date": "2025-06-20",
+    "description": "Card payment at Flipkart",
+    "amount": 4851,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 782308
+  },
+  {
+    "id": "txn_282",
+    "userId": "user_2",
+    "date": "2025-06-21",
+    "description": "UPI payment to Movie Ticket",
+    "amount": 798,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 2467860
+  },
+  {
+    "id": "txn_177",
+    "userId": "user_2",
+    "date": "2025-06-22",
+    "description": "Net banking transfer to Big Basket",
+    "amount": 2073,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 970628
+  },
+  {
+    "id": "txn_155",
+    "userId": "user_2",
+    "date": "2025-06-23",
+    "description": "Refund from Medical",
+    "amount": 2479,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 206248
+  },
+  {
+    "id": "txn_216",
+    "userId": "user_2",
+    "date": "2025-06-23",
+    "description": "Net banking transfer to Big Basket",
+    "amount": 929,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1310038
+  },
+  {
+    "id": "txn_170",
+    "userId": "user_2",
+    "date": "2025-06-25",
+    "description": "Refund from Electricity Bill",
+    "amount": 650,
+    "type": "Credit",
+    "category": "Utilities",
+    "balance": 781016
+  },
+  {
+    "id": "txn_252",
+    "userId": "user_2",
+    "date": "2025-06-25",
+    "description": "Card payment at Flipkart",
+    "amount": 2241,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1997382
+  },
+  {
+    "id": "txn_254",
+    "userId": "user_2",
+    "date": "2025-06-25",
+    "description": "UPI payment to Dominos",
+    "amount": 362,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1994779
+  },
+  {
+    "id": "txn_249",
+    "userId": "user_2",
+    "date": "2025-06-28",
+    "description": "Salary credited by Ramaswamy-Edwin",
+    "amount": 101338,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2000013
+  },
+  {
+    "id": "txn_172",
+    "userId": "user_2",
+    "date": "2025-07-02",
+    "description": "Card payment at Water Bill",
+    "amount": 2886,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 888661
+  },
+  {
+    "id": "txn_175",
+    "userId": "user_2",
+    "date": "2025-07-02",
+    "description": "UPI payment to DMart",
+    "amount": 3296,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 973385
+  },
+  {
+    "id": "txn_201",
+    "userId": "user_2",
+    "date": "2025-07-03",
+    "description": "Card payment at Gas Bill",
+    "amount": 1289,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1088400
+  },
+  {
+    "id": "txn_290",
+    "userId": "user_2",
+    "date": "2025-07-03",
+    "description": "UPI payment to House Rent",
+    "amount": 8047,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2447316
+  },
+  {
+    "id": "txn_263",
+    "userId": "user_2",
+    "date": "2025-07-04",
+    "description": "Salary credited by Rama, Dar and Taneja",
+    "amount": 97270,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2255912
+  },
+  {
+    "id": "txn_287",
+    "userId": "user_2",
+    "date": "2025-07-04",
+    "description": "Net banking transfer to Mobile Recharge",
+    "amount": 674,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 2464562
+  },
+  {
+    "id": "txn_230",
+    "userId": "user_2",
+    "date": "2025-07-05",
+    "description": "Net banking transfer to BookMyShow",
+    "amount": 297,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1434140
+  },
+  {
+    "id": "txn_261",
+    "userId": "user_2",
+    "date": "2025-07-08",
+    "description": "Card payment at Dominos",
+    "amount": 290,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 2181305
+  },
+  {
+    "id": "txn_197",
+    "userId": "user_2",
+    "date": "2025-07-09",
+    "description": "Salary credited by Chatterjee LLC",
+    "amount": 51467,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1013375
+  },
+  {
+    "id": "txn_211",
+    "userId": "user_2",
+    "date": "2025-07-10",
+    "description": "Card payment at House Rent",
+    "amount": 20309,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1316373
+  },
+  {
+    "id": "txn_257",
+    "userId": "user_2",
+    "date": "2025-07-10",
+    "description": "Salary credited by Narayanan and Sons",
+    "amount": 134372,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2101971
+  },
+  {
+    "id": "txn_279",
+    "userId": "user_2",
+    "date": "2025-07-10",
+    "description": "Refund from Amazon",
+    "amount": 683,
+    "type": "Credit",
+    "category": "Shopping",
+    "balance": 2473579
+  },
+  {
+    "id": "txn_283",
+    "userId": "user_2",
+    "date": "2025-07-10",
+    "description": "Refund from Flight Booking",
+    "amount": 1102,
+    "type": "Credit",
+    "category": "Travel",
+    "balance": 2468962
+  },
+  {
+    "id": "txn_182",
+    "userId": "user_2",
+    "date": "2025-07-11",
+    "description": "UPI payment to Big Basket",
+    "amount": 4489,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 940852
+  },
+  {
+    "id": "txn_194",
+    "userId": "user_2",
+    "date": "2025-07-15",
+    "description": "UPI payment to Swiggy",
+    "amount": 788,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 962879
+  },
+  {
+    "id": "txn_246",
+    "userId": "user_2",
+    "date": "2025-07-15",
+    "description": "UPI payment to McDonald's",
+    "amount": 1052,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1758230
+  },
+  {
+    "id": "txn_277",
+    "userId": "user_2",
+    "date": "2025-07-15",
+    "description": "UPI payment to Train Ticket",
+    "amount": 1706,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 2475038
+  },
+  {
+    "id": "txn_292",
+    "userId": "user_2",
+    "date": "2025-07-16",
+    "description": "Card payment at House Rent",
+    "amount": 14014,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2425029
+  },
+  {
+    "id": "txn_171",
+    "userId": "user_2",
+    "date": "2025-07-22",
+    "description": "Salary credited by Virk Group",
+    "amount": 110531,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 891547
+  },
+  {
+    "id": "txn_226",
+    "userId": "user_2",
+    "date": "2025-07-22",
+    "description": "Salary credited by Gandhi-Sagar",
+    "amount": 118356,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1439006
+  },
+  {
+    "id": "txn_233",
+    "userId": "user_2",
+    "date": "2025-07-22",
+    "description": "Salary credited by Nanda, Khurana and Dugar",
+    "amount": 115596,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1638802
+  },
+  {
+    "id": "txn_180",
+    "userId": "user_2",
+    "date": "2025-07-23",
+    "description": "UPI payment to House Rent",
+    "amount": 13624,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 945615
+  },
+  {
+    "id": "txn_295",
+    "userId": "user_2",
+    "date": "2025-07-23",
+    "description": "Card payment at Big Basket",
+    "amount": 1269,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 2420508
+  },
+  {
+    "id": "txn_286",
+    "userId": "user_2",
+    "date": "2025-07-24",
+    "description": "Card payment at Medical",
+    "amount": 747,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 2465236
+  },
+  {
+    "id": "txn_250",
+    "userId": "user_2",
+    "date": "2025-07-26",
+    "description": "Refund from Ola",
+    "amount": 1434,
+    "type": "Credit",
+    "category": "Travel",
+    "balance": 2001447
+  },
+  {
+    "id": "txn_176",
+    "userId": "user_2",
+    "date": "2025-07-27",
+    "description": "UPI payment to Swiggy",
+    "amount": 684,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 972701
+  },
+  {
+    "id": "txn_220",
+    "userId": "user_2",
+    "date": "2025-07-27",
+    "description": "Net banking transfer to Bank Charges",
+    "amount": 2494,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1291804
+  },
+  {
+    "id": "txn_160",
+    "userId": "user_2",
+    "date": "2025-07-28",
+    "description": "Card payment at Netflix",
+    "amount": 588,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 338669
+  },
+  {
+    "id": "txn_247",
+    "userId": "user_2",
+    "date": "2025-07-28",
+    "description": "Salary credited by Venkatesh, Mukherjee and Pandey",
+    "amount": 140939,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1899169
+  },
+  {
+    "id": "txn_158",
+    "userId": "user_2",
+    "date": "2025-07-30",
+    "description": "Net banking transfer to Mobile Recharge",
+    "amount": 2085,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 203180
+  },
+  {
+    "id": "txn_236",
+    "userId": "user_2",
+    "date": "2025-07-30",
+    "description": "Net banking transfer to Insurance",
+    "amount": 2575,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1720225
+  },
+  {
+    "id": "txn_173",
+    "userId": "user_2",
+    "date": "2025-07-31",
+    "description": "Refund from Amazon Prime",
+    "amount": 958,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 889619
+  },
+  {
+    "id": "txn_274",
+    "userId": "user_2",
+    "date": "2025-08-01",
+    "description": "Salary credited by Dua Group",
+    "amount": 85037,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2408368
+  },
+  {
+    "id": "txn_280",
+    "userId": "user_2",
+    "date": "2025-08-03",
+    "description": "Card payment at Ola",
+    "amount": 1715,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 2471864
+  },
+  {
+    "id": "txn_225",
+    "userId": "user_2",
+    "date": "2025-08-04",
+    "description": "UPI payment to Monthly Rent",
+    "amount": 16837,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1320650
+  },
+  {
+    "id": "txn_184",
+    "userId": "user_2",
+    "date": "2025-08-05",
+    "description": "Card payment at Uber",
+    "amount": 339,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 937598
+  },
+  {
+    "id": "txn_269",
+    "userId": "user_2",
+    "date": "2025-08-05",
+    "description": "Net banking transfer to Amazon Prime",
+    "amount": 772,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 2330773
+  },
+  {
+    "id": "txn_291",
+    "userId": "user_2",
+    "date": "2025-08-05",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 8273,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2439043
+  },
+  {
+    "id": "txn_218",
+    "userId": "user_2",
+    "date": "2025-08-06",
+    "description": "Net banking transfer to DMart",
+    "amount": 696,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1295618
+  },
+  {
+    "id": "txn_299",
+    "userId": "user_2",
+    "date": "2025-08-09",
+    "description": "UPI payment to McDonald's",
+    "amount": 324,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 2413535
+  },
+  {
+    "id": "txn_210",
+    "userId": "user_2",
+    "date": "2025-08-10",
+    "description": "UPI payment to Monthly Rent",
+    "amount": 16308,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1336682
+  },
+  {
+    "id": "txn_268",
+    "userId": "user_2",
+    "date": "2025-08-10",
+    "description": "UPI payment to Dominos",
+    "amount": 1427,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 2331545
+  },
+  {
+    "id": "txn_267",
+    "userId": "user_2",
+    "date": "2025-08-13",
+    "description": "Net banking transfer to House Rent",
+    "amount": 22848,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2332972
+  },
+  {
+    "id": "txn_186",
+    "userId": "user_2",
+    "date": "2025-08-16",
+    "description": "Net banking transfer to Monthly Rent",
+    "amount": 12695,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 922456
+  },
+  {
+    "id": "txn_239",
+    "userId": "user_2",
+    "date": "2025-08-16",
+    "description": "Card payment at Netflix",
+    "amount": 894,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1788192
+  },
+  {
+    "id": "txn_181",
+    "userId": "user_2",
+    "date": "2025-08-17",
+    "description": "Net banking transfer to McDonald's",
+    "amount": 274,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 945341
+  },
+  {
+    "id": "txn_242",
+    "userId": "user_2",
+    "date": "2025-08-17",
+    "description": "Card payment at Local Restaurant",
+    "amount": 649,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1784462
+  },
+  {
+    "id": "txn_244",
+    "userId": "user_2",
+    "date": "2025-08-18",
+    "description": "UPI payment to Electricity Bill",
+    "amount": 1876,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1781715
+  },
+  {
+    "id": "txn_199",
+    "userId": "user_2",
+    "date": "2025-08-19",
+    "description": "Salary credited by Ganesh Inc",
+    "amount": 78223,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1089920
+  },
+  {
+    "id": "txn_183",
+    "userId": "user_2",
+    "date": "2025-08-20",
+    "description": "UPI payment to Water Bill",
+    "amount": 2915,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 937937
+  },
+  {
+    "id": "txn_272",
+    "userId": "user_2",
+    "date": "2025-08-21",
+    "description": "UPI payment to Petrol",
+    "amount": 1860,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 2325563
+  },
+  {
+    "id": "txn_191",
+    "userId": "user_2",
+    "date": "2025-08-23",
+    "description": "UPI payment to Rapido",
+    "amount": 184,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 967739
+  },
+  {
+    "id": "txn_231",
+    "userId": "user_2",
+    "date": "2025-08-25",
+    "description": "Card payment at Gas Bill",
+    "amount": 2067,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1432073
+  },
+  {
+    "id": "txn_298",
+    "userId": "user_2",
+    "date": "2025-08-25",
+    "description": "Net banking transfer to Internet Bill",
+    "amount": 2578,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 2413859
+  },
+  {
+    "id": "txn_164",
+    "userId": "user_2",
+    "date": "2025-09-01",
+    "description": "Salary credited by Viswanathan, Mane and Sarna",
+    "amount": 50060,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 647024
+  },
+  {
+    "id": "txn_215",
+    "userId": "user_2",
+    "date": "2025-09-01",
+    "description": "Card payment at Internet Bill",
+    "amount": 2468,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1310967
+  },
+  {
+    "id": "txn_206",
+    "userId": "user_2",
+    "date": "2025-09-03",
+    "description": "Card payment at Rapido",
+    "amount": 442,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1206903
+  },
+  {
+    "id": "txn_153",
+    "userId": "user_2",
+    "date": "2025-09-04",
+    "description": "Card payment at Local Restaurant",
+    "amount": 1142,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 62929
+  },
+  {
+    "id": "txn_258",
+    "userId": "user_2",
+    "date": "2025-09-05",
+    "description": "Salary credited by Raj, Sura and Shere",
+    "amount": 79206,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 2181177
+  },
+  {
+    "id": "txn_209",
+    "userId": "user_2",
+    "date": "2025-09-06",
+    "description": "Salary credited by Halder, Sahota and Goswami",
+    "amount": 50883,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1352990
+  },
+  {
+    "id": "txn_204",
+    "userId": "user_2",
+    "date": "2025-09-07",
+    "description": "Salary credited by Hegde-Nair",
+    "amount": 56152,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1134069
+  },
+  {
+    "id": "txn_165",
+    "userId": "user_2",
+    "date": "2025-09-14",
+    "description": "Salary credited by Varghese-Jha",
+    "amount": 140135,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 787159
+  },
+  {
+    "id": "txn_262",
+    "userId": "user_2",
+    "date": "2025-09-15",
+    "description": "UPI payment to House Rent",
+    "amount": 22663,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 2158642
+  },
+  {
+    "id": "txn_205",
+    "userId": "user_2",
+    "date": "2025-09-20",
+    "description": "Salary credited by Kari Ltd",
+    "amount": 73276,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1207345
+  },
+  {
+    "id": "txn_161",
+    "userId": "user_2",
+    "date": "2025-09-22",
+    "description": "Salary credited by Dora-Lall",
+    "amount": 146019,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 484688
+  },
+  {
+    "id": "txn_178",
+    "userId": "user_2",
+    "date": "2025-09-22",
+    "description": "Card payment at Apartment Rent",
+    "amount": 10848,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 959780
+  },
+  {
+    "id": "txn_259",
+    "userId": "user_2",
+    "date": "2025-09-23",
+    "description": "Refund from Starbucks",
+    "amount": 1119,
+    "type": "Credit",
+    "category": "Food",
+    "balance": 2182296
+  },
+  {
+    "id": "txn_256",
+    "userId": "user_2",
+    "date": "2025-09-25",
+    "description": "Card payment at House Rent",
+    "amount": 23167,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1967599
+  },
+  {
+    "id": "txn_253",
+    "userId": "user_2",
+    "date": "2025-09-27",
+    "description": "UPI payment to Medical",
+    "amount": 2241,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1995141
+  },
+  {
+    "id": "txn_208",
+    "userId": "user_2",
+    "date": "2025-09-28",
+    "description": "Net banking transfer to Insurance",
+    "amount": 1866,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1302107
+  },
+  {
+    "id": "txn_293",
+    "userId": "user_2",
+    "date": "2025-09-28",
+    "description": "Card payment at Train Ticket",
+    "amount": 1688,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 2423341
+  },
+  {
+    "id": "txn_163",
+    "userId": "user_2",
+    "date": "2025-09-30",
+    "description": "Salary credited by Chander-Mishra",
+    "amount": 113354,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 596964
+  },
+  {
+    "id": "txn_296",
+    "userId": "user_2",
+    "date": "2025-10-03",
+    "description": "Net banking transfer to Uber",
+    "amount": 1327,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 2419181
+  },
+  {
+    "id": "txn_241",
+    "userId": "user_2",
+    "date": "2025-10-04",
+    "description": "Card payment at Ajio",
+    "amount": 2833,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1785111
+  },
+  {
+    "id": "txn_278",
+    "userId": "user_2",
+    "date": "2025-10-04",
+    "description": "Net banking transfer to Insurance",
+    "amount": 2142,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 2472896
+  },
+  {
+    "id": "txn_195",
+    "userId": "user_2",
+    "date": "2025-10-06",
+    "description": "Net banking transfer to Groceries",
+    "amount": 247,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 962632
+  },
+  {
+    "id": "txn_227",
+    "userId": "user_2",
+    "date": "2025-10-06",
+    "description": "Refund from Movie Ticket",
+    "amount": 753,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 1439759
+  },
+  {
+    "id": "txn_174",
+    "userId": "user_2",
+    "date": "2025-10-08",
+    "description": "Salary credited by Rai, Dhaliwal and Yogi",
+    "amount": 87062,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 976681
+  },
+  {
+    "id": "txn_270",
+    "userId": "user_2",
+    "date": "2025-10-08",
+    "description": "Card payment at Gas Bill",
+    "amount": 2326,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 2328447
+  },
+  {
+    "id": "txn_200",
+    "userId": "user_2",
+    "date": "2025-10-09",
+    "description": "UPI payment to Starbucks",
+    "amount": 231,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1089689
+  },
+  {
+    "id": "txn_251",
+    "userId": "user_2",
+    "date": "2025-10-10",
+    "description": "Net banking transfer to Electricity Bill",
+    "amount": 1824,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1999623
+  },
+  {
+    "id": "txn_255",
+    "userId": "user_2",
+    "date": "2025-10-11",
+    "description": "Card payment at Big Basket",
+    "amount": 4013,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1990766
+  },
+  {
+    "id": "txn_213",
+    "userId": "user_2",
+    "date": "2025-10-12",
+    "description": "Net banking transfer to ATM Withdrawal",
+    "amount": 549,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1316389
+  },
+  {
+    "id": "txn_235",
+    "userId": "user_2",
+    "date": "2025-10-13",
+    "description": "Card payment at Local Restaurant",
+    "amount": 510,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1722800
+  },
+  {
+    "id": "txn_162",
+    "userId": "user_2",
+    "date": "2025-10-14",
+    "description": "UPI payment to Water Bill",
+    "amount": 1078,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 483610
+  },
+  {
+    "id": "txn_190",
+    "userId": "user_2",
+    "date": "2025-10-16",
+    "description": "Card payment at Movie Ticket",
+    "amount": 302,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 967923
+  },
+  {
+    "id": "txn_228",
+    "userId": "user_2",
+    "date": "2025-10-16",
+    "description": "Net banking transfer to Myntra",
+    "amount": 3350,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1436409
+  },
+  {
+    "id": "txn_362",
+    "userId": "user_3",
+    "date": "2025-04-19",
+    "description": "Salary credited by Swamy, Dhar and Natarajan",
+    "amount": 135743,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 843709
+  },
+  {
+    "id": "txn_412",
+    "userId": "user_3",
+    "date": "2025-04-20",
+    "description": "UPI payment to Water Bill",
+    "amount": 526,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1427959
+  },
+  {
+    "id": "txn_342",
+    "userId": "user_3",
+    "date": "2025-04-21",
+    "description": "UPI payment to Myntra",
+    "amount": 3810,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 751754
+  },
+  {
+    "id": "txn_406",
+    "userId": "user_3",
+    "date": "2025-04-21",
+    "description": "UPI payment to Movie Ticket",
+    "amount": 360,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1446257
+  },
+  {
+    "id": "txn_450",
+    "userId": "user_3",
+    "date": "2025-04-21",
+    "description": "UPI payment to Amazon Prime",
+    "amount": 499,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1910232
+  },
+  {
+    "id": "txn_312",
+    "userId": "user_3",
+    "date": "2025-04-24",
+    "description": "Refund from Groceries",
+    "amount": 246,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 151611
+  },
+  {
+    "id": "txn_341",
+    "userId": "user_3",
+    "date": "2025-04-24",
+    "description": "UPI payment to House Rent",
+    "amount": 10451,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 755564
+  },
+  {
+    "id": "txn_444",
+    "userId": "user_3",
+    "date": "2025-04-24",
+    "description": "Card payment at Rapido",
+    "amount": 236,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1756985
+  },
+  {
+    "id": "txn_318",
+    "userId": "user_3",
+    "date": "2025-04-25",
+    "description": "Card payment at Ajio",
+    "amount": 4204,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 135147
+  },
+  {
+    "id": "txn_449",
+    "userId": "user_3",
+    "date": "2025-04-25",
+    "description": "Salary credited by Khare Group",
+    "amount": 70502,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1910731
+  },
+  {
+    "id": "txn_303",
+    "userId": "user_3",
+    "date": "2025-04-26",
+    "description": "Net banking transfer to Zomato",
+    "amount": 1334,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 188719
+  },
+  {
+    "id": "txn_391",
+    "userId": "user_3",
+    "date": "2025-04-26",
+    "description": "Salary credited by Bose, Chaudhuri and Malhotra",
+    "amount": 136303,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1479669
+  },
+  {
+    "id": "txn_404",
+    "userId": "user_3",
+    "date": "2025-04-27",
+    "description": "Card payment at Mobile Recharge",
+    "amount": 415,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1447852
+  },
+  {
+    "id": "txn_305",
+    "userId": "user_3",
+    "date": "2025-04-29",
+    "description": "UPI payment to Netflix",
+    "amount": 895,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 186866
+  },
+  {
+    "id": "txn_402",
+    "userId": "user_3",
+    "date": "2025-04-30",
+    "description": "Net banking transfer to Medical",
+    "amount": 264,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1444668
+  },
+  {
+    "id": "txn_384",
+    "userId": "user_3",
+    "date": "2025-05-01",
+    "description": "Card payment at Bank Charges",
+    "amount": 2363,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1348752
+  },
+  {
+    "id": "txn_328",
+    "userId": "user_3",
+    "date": "2025-05-02",
+    "description": "Net banking transfer to Ajio",
+    "amount": 1285,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 580599
+  },
+  {
+    "id": "txn_443",
+    "userId": "user_3",
+    "date": "2025-05-02",
+    "description": "Salary credited by Manne, Sampath and Prakash",
+    "amount": 103209,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1757221
+  },
+  {
+    "id": "txn_372",
+    "userId": "user_3",
+    "date": "2025-05-05",
+    "description": "Card payment at Ajio",
+    "amount": 2251,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1034290
+  },
+  {
+    "id": "txn_369",
+    "userId": "user_3",
+    "date": "2025-05-07",
+    "description": "Salary credited by Baral-Choudhury",
+    "amount": 97285,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1036651
+  },
+  {
+    "id": "txn_314",
+    "userId": "user_3",
+    "date": "2025-05-08",
+    "description": "UPI payment to Ajio",
+    "amount": 3329,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 145690
+  },
+  {
+    "id": "txn_364",
+    "userId": "user_3",
+    "date": "2025-05-08",
+    "description": "Card payment at Electricity Bill",
+    "amount": 1167,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 842229
+  },
+  {
+    "id": "txn_421",
+    "userId": "user_3",
+    "date": "2025-05-09",
+    "description": "UPI payment to Netflix",
+    "amount": 857,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1553280
+  },
+  {
+    "id": "txn_315",
+    "userId": "user_3",
+    "date": "2025-05-11",
+    "description": "Net banking transfer to Myntra",
+    "amount": 555,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 145135
+  },
+  {
+    "id": "txn_381",
+    "userId": "user_3",
+    "date": "2025-05-11",
+    "description": "Card payment at Apartment Rent",
+    "amount": 11304,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1231862
+  },
+  {
+    "id": "txn_397",
+    "userId": "user_3",
+    "date": "2025-05-13",
+    "description": "Refund from Bank Charges",
+    "amount": 627,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 1451226
+  },
+  {
+    "id": "txn_439",
+    "userId": "user_3",
+    "date": "2025-05-13",
+    "description": "Card payment at Big Basket",
+    "amount": 1551,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1660647
+  },
+  {
+    "id": "txn_360",
+    "userId": "user_3",
+    "date": "2025-05-15",
+    "description": "Net banking transfer to Ajio",
+    "amount": 1580,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 708370
+  },
+  {
+    "id": "txn_322",
+    "userId": "user_3",
+    "date": "2025-05-16",
+    "description": "Net banking transfer to Spotify",
+    "amount": 426,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 228726
+  },
+  {
+    "id": "txn_423",
+    "userId": "user_3",
+    "date": "2025-05-16",
+    "description": "UPI payment to Netflix",
+    "amount": 591,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1551122
+  },
+  {
+    "id": "txn_434",
+    "userId": "user_3",
+    "date": "2025-05-17",
+    "description": "Salary credited by Chowdhury-Shere",
+    "amount": 53205,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1668197
+  },
+  {
+    "id": "txn_367",
+    "userId": "user_3",
+    "date": "2025-05-19",
+    "description": "Net banking transfer to Myntra",
+    "amount": 3706,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 940281
+  },
+  {
+    "id": "txn_394",
+    "userId": "user_3",
+    "date": "2025-05-19",
+    "description": "Net banking transfer to Monthly Rent",
+    "amount": 24144,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1455575
+  },
+  {
+    "id": "txn_348",
+    "userId": "user_3",
+    "date": "2025-05-20",
+    "description": "UPI payment to Local Restaurant",
+    "amount": 1181,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 742715
+  },
+  {
+    "id": "txn_370",
+    "userId": "user_3",
+    "date": "2025-05-22",
+    "description": "Net banking transfer to Myntra",
+    "amount": 1708,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1034943
+  },
+  {
+    "id": "txn_413",
+    "userId": "user_3",
+    "date": "2025-05-24",
+    "description": "UPI payment to BookMyShow",
+    "amount": 756,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1427203
+  },
+  {
+    "id": "txn_414",
+    "userId": "user_3",
+    "date": "2025-05-24",
+    "description": "Refund from Monthly Rent",
+    "amount": 11024,
+    "type": "Credit",
+    "category": "Rent",
+    "balance": 1438227
+  },
+  {
+    "id": "txn_339",
+    "userId": "user_3",
+    "date": "2025-05-25",
+    "description": "Salary credited by Narang Inc",
+    "amount": 125536,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 783409
+  },
+  {
+    "id": "txn_401",
+    "userId": "user_3",
+    "date": "2025-05-27",
+    "description": "Card payment at Spotify",
+    "amount": 652,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1444932
+  },
+  {
+    "id": "txn_332",
+    "userId": "user_3",
+    "date": "2025-05-28",
+    "description": "Refund from DMart",
+    "amount": 2024,
+    "type": "Credit",
+    "category": "Shopping",
+    "balance": 663761
+  },
+  {
+    "id": "txn_416",
+    "userId": "user_3",
+    "date": "2025-05-28",
+    "description": "Card payment at BookMyShow",
+    "amount": 685,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1437411
+  },
+  {
+    "id": "txn_420",
+    "userId": "user_3",
+    "date": "2025-05-29",
+    "description": "Net banking transfer to ATM Withdrawal",
+    "amount": 2449,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1554137
+  },
+  {
+    "id": "txn_422",
+    "userId": "user_3",
+    "date": "2025-05-31",
+    "description": "Net banking transfer to Medical",
+    "amount": 1567,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1551713
+  },
+  {
+    "id": "txn_392",
+    "userId": "user_3",
+    "date": "2025-06-02",
+    "description": "Refund from BookMyShow",
+    "amount": 768,
+    "type": "Credit",
+    "category": "Entertainment",
+    "balance": 1480437
+  },
+  {
+    "id": "txn_393",
+    "userId": "user_3",
+    "date": "2025-06-02",
+    "description": "Net banking transfer to Insurance",
+    "amount": 718,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1479719
+  },
+  {
+    "id": "txn_340",
+    "userId": "user_3",
+    "date": "2025-06-04",
+    "description": "UPI payment to Apartment Rent",
+    "amount": 17394,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 766015
+  },
+  {
+    "id": "txn_361",
+    "userId": "user_3",
+    "date": "2025-06-10",
+    "description": "UPI payment to Bank Charges",
+    "amount": 404,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 707966
+  },
+  {
+    "id": "txn_374",
+    "userId": "user_3",
+    "date": "2025-06-10",
+    "description": "UPI payment to Big Basket",
+    "amount": 4549,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1027278
+  },
+  {
+    "id": "txn_347",
+    "userId": "user_3",
+    "date": "2025-06-16",
+    "description": "Card payment at ATM Withdrawal",
+    "amount": 1942,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 743896
+  },
+  {
+    "id": "txn_438",
+    "userId": "user_3",
+    "date": "2025-06-16",
+    "description": "Net banking transfer to Electricity Bill",
+    "amount": 1993,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1662198
+  },
+  {
+    "id": "txn_330",
+    "userId": "user_3",
+    "date": "2025-06-18",
+    "description": "Card payment at BookMyShow",
+    "amount": 663,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 579417
+  },
+  {
+    "id": "txn_424",
+    "userId": "user_3",
+    "date": "2025-06-18",
+    "description": "Salary credited by Gade, Rai and Wali",
+    "amount": 80259,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1631381
+  },
+  {
+    "id": "txn_376",
+    "userId": "user_3",
+    "date": "2025-06-20",
+    "description": "Card payment at McDonald's",
+    "amount": 330,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1028523
+  },
+  {
+    "id": "txn_371",
+    "userId": "user_3",
+    "date": "2025-06-21",
+    "description": "Refund from Groceries",
+    "amount": 1598,
+    "type": "Credit",
+    "category": "Others",
+    "balance": 1036541
+  },
+  {
+    "id": "txn_355",
+    "userId": "user_3",
+    "date": "2025-06-22",
+    "description": "Net banking transfer to Spotify",
+    "amount": 932,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 714282
+  },
+  {
+    "id": "txn_403",
+    "userId": "user_3",
+    "date": "2025-06-22",
+    "description": "Refund from Amazon",
+    "amount": 3599,
+    "type": "Credit",
+    "category": "Shopping",
+    "balance": 1448267
+  },
+  {
+    "id": "txn_442",
+    "userId": "user_3",
+    "date": "2025-06-22",
+    "description": "Net banking transfer to DMart",
+    "amount": 3209,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1654012
+  },
+  {
+    "id": "txn_354",
+    "userId": "user_3",
+    "date": "2025-06-24",
+    "description": "UPI payment to Bank Charges",
+    "amount": 2316,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 715214
+  },
+  {
+    "id": "txn_379",
+    "userId": "user_3",
+    "date": "2025-06-24",
+    "description": "Salary credited by Sharma LLC",
+    "amount": 79158,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1252021
+  },
+  {
+    "id": "txn_352",
+    "userId": "user_3",
+    "date": "2025-06-26",
+    "description": "UPI payment to Monthly Rent",
+    "amount": 15041,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 716447
+  },
+  {
+    "id": "txn_409",
+    "userId": "user_3",
+    "date": "2025-06-30",
+    "description": "Card payment at House Rent",
+    "amount": 13766,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1433072
+  },
+  {
+    "id": "txn_417",
+    "userId": "user_3",
+    "date": "2025-06-30",
+    "description": "Salary credited by Dixit-Ratti",
+    "amount": 119570,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1556981
+  },
+  {
+    "id": "txn_440",
+    "userId": "user_3",
+    "date": "2025-07-02",
+    "description": "UPI payment to Internet Bill",
+    "amount": 1982,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1658665
+  },
+  {
+    "id": "txn_317",
+    "userId": "user_3",
+    "date": "2025-07-03",
+    "description": "Card payment at Train Ticket",
+    "amount": 912,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 139351
+  },
+  {
+    "id": "txn_408",
+    "userId": "user_3",
+    "date": "2025-07-03",
+    "description": "Net banking transfer to Electricity Bill",
+    "amount": 1599,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1446838
+  },
+  {
+    "id": "txn_446",
+    "userId": "user_3",
+    "date": "2025-07-03",
+    "description": "Salary credited by Karnik Group",
+    "amount": 91955,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1844348
+  },
+  {
+    "id": "txn_447",
+    "userId": "user_3",
+    "date": "2025-07-03",
+    "description": "UPI payment to Gas Bill",
+    "amount": 2870,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1841478
+  },
+  {
+    "id": "txn_375",
+    "userId": "user_3",
+    "date": "2025-07-04",
+    "description": "Refund from Internet Bill",
+    "amount": 1575,
+    "type": "Credit",
+    "category": "Utilities",
+    "balance": 1028853
+  },
+  {
+    "id": "txn_320",
+    "userId": "user_3",
+    "date": "2025-07-06",
+    "description": "Net banking transfer to Starbucks",
+    "amount": 145,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 230128
+  },
+  {
+    "id": "txn_323",
+    "userId": "user_3",
+    "date": "2025-07-06",
+    "description": "Card payment at Dominos",
+    "amount": 955,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 227771
+  },
+  {
+    "id": "txn_346",
+    "userId": "user_3",
+    "date": "2025-07-06",
+    "description": "UPI payment to Big Basket",
+    "amount": 1606,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 745838
+  },
+  {
+    "id": "txn_319",
+    "userId": "user_3",
+    "date": "2025-07-07",
+    "description": "Salary credited by Bir Group",
+    "amount": 95126,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 230273
+  },
+  {
+    "id": "txn_326",
+    "userId": "user_3",
+    "date": "2025-07-07",
+    "description": "Card payment at BookMyShow",
+    "amount": 494,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 440766
+  },
+  {
+    "id": "txn_327",
+    "userId": "user_3",
+    "date": "2025-07-09",
+    "description": "Salary credited by Upadhyay-Rajan",
+    "amount": 141118,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 581884
+  },
+  {
+    "id": "txn_435",
+    "userId": "user_3",
+    "date": "2025-07-09",
+    "description": "Card payment at Mobile Recharge",
+    "amount": 2261,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1665936
+  },
+  {
+    "id": "txn_437",
+    "userId": "user_3",
+    "date": "2025-07-13",
+    "description": "Card payment at McDonald's",
+    "amount": 389,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1664191
+  },
+  {
+    "id": "txn_445",
+    "userId": "user_3",
+    "date": "2025-07-14",
+    "description": "UPI payment to Flipkart",
+    "amount": 4592,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1752393
+  },
+  {
+    "id": "txn_345",
+    "userId": "user_3",
+    "date": "2025-07-15",
+    "description": "Card payment at Train Ticket",
+    "amount": 768,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 747444
+  },
+  {
+    "id": "txn_399",
+    "userId": "user_3",
+    "date": "2025-07-16",
+    "description": "Card payment at Insurance",
+    "amount": 1886,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1447749
+  },
+  {
+    "id": "txn_398",
+    "userId": "user_3",
+    "date": "2025-07-17",
+    "description": "UPI payment to Train Ticket",
+    "amount": 1591,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1449635
+  },
+  {
+    "id": "txn_419",
+    "userId": "user_3",
+    "date": "2025-07-17",
+    "description": "Card payment at Local Restaurant",
+    "amount": 113,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1556586
+  },
+  {
+    "id": "txn_334",
+    "userId": "user_3",
+    "date": "2025-07-19",
+    "description": "Net banking transfer to Water Bill",
+    "amount": 1276,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 661137
+  },
+  {
+    "id": "txn_427",
+    "userId": "user_3",
+    "date": "2025-07-19",
+    "description": "Card payment at Electricity Bill",
+    "amount": 2337,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1627739
+  },
+  {
+    "id": "txn_433",
+    "userId": "user_3",
+    "date": "2025-07-19",
+    "description": "Refund from Gas Bill",
+    "amount": 1885,
+    "type": "Credit",
+    "category": "Utilities",
+    "balance": 1614992
+  },
+  {
+    "id": "txn_387",
+    "userId": "user_3",
+    "date": "2025-07-20",
+    "description": "Card payment at Mobile Recharge",
+    "amount": 1238,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1344443
+  },
+  {
+    "id": "txn_396",
+    "userId": "user_3",
+    "date": "2025-07-20",
+    "description": "Net banking transfer to Movie Ticket",
+    "amount": 293,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1450599
+  },
+  {
+    "id": "txn_336",
+    "userId": "user_3",
+    "date": "2025-07-23",
+    "description": "UPI payment to BookMyShow",
+    "amount": 617,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 660306
+  },
+  {
+    "id": "txn_333",
+    "userId": "user_3",
+    "date": "2025-07-28",
+    "description": "UPI payment to Mobile Recharge",
+    "amount": 1348,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 662413
+  },
+  {
+    "id": "txn_407",
+    "userId": "user_3",
+    "date": "2025-07-29",
+    "description": "Refund from Water Bill",
+    "amount": 2180,
+    "type": "Credit",
+    "category": "Utilities",
+    "balance": 1448437
+  },
+  {
+    "id": "txn_344",
+    "userId": "user_3",
+    "date": "2025-07-31",
+    "description": "Net banking transfer to Big Basket",
+    "amount": 970,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 748212
+  },
+  {
+    "id": "txn_365",
+    "userId": "user_3",
+    "date": "2025-07-31",
+    "description": "Card payment at Zomato",
+    "amount": 145,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 842084
+  },
+  {
+    "id": "txn_378",
+    "userId": "user_3",
+    "date": "2025-07-31",
+    "description": "Salary credited by Subramanian-Toor",
+    "amount": 146052,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1172863
+  },
+  {
+    "id": "txn_311",
+    "userId": "user_3",
+    "date": "2025-08-01",
+    "description": "Net banking transfer to Ola",
+    "amount": 1606,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 151365
+  },
+  {
+    "id": "txn_350",
+    "userId": "user_3",
+    "date": "2025-08-04",
+    "description": "Net banking transfer to Mobile Recharge",
+    "amount": 948,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 740274
+  },
+  {
+    "id": "txn_411",
+    "userId": "user_3",
+    "date": "2025-08-07",
+    "description": "Card payment at Internet Bill",
+    "amount": 2862,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1428485
+  },
+  {
+    "id": "txn_357",
+    "userId": "user_3",
+    "date": "2025-08-10",
+    "description": "Net banking transfer to Gas Bill",
+    "amount": 1800,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 711644
+  },
+  {
+    "id": "txn_337",
+    "userId": "user_3",
+    "date": "2025-08-13",
+    "description": "Net banking transfer to Zomato",
+    "amount": 298,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 660008
+  },
+  {
+    "id": "txn_351",
+    "userId": "user_3",
+    "date": "2025-08-13",
+    "description": "UPI payment to House Rent",
+    "amount": 8786,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 731488
+  },
+  {
+    "id": "txn_321",
+    "userId": "user_3",
+    "date": "2025-08-15",
+    "description": "UPI payment to Rapido",
+    "amount": 976,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 229152
+  },
+  {
+    "id": "txn_329",
+    "userId": "user_3",
+    "date": "2025-08-15",
+    "description": "Card payment at Spotify",
+    "amount": 519,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 580080
+  },
+  {
+    "id": "txn_380",
+    "userId": "user_3",
+    "date": "2025-08-17",
+    "description": "Net banking transfer to House Rent",
+    "amount": 8855,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1243166
+  },
+  {
+    "id": "txn_316",
+    "userId": "user_3",
+    "date": "2025-08-19",
+    "description": "UPI payment to Myntra",
+    "amount": 4872,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 140263
+  },
+  {
+    "id": "txn_385",
+    "userId": "user_3",
+    "date": "2025-08-23",
+    "description": "Card payment at Insurance",
+    "amount": 2580,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1346172
+  },
+  {
+    "id": "txn_430",
+    "userId": "user_3",
+    "date": "2025-08-23",
+    "description": "UPI payment to House Rent",
+    "amount": 10615,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 1614293
+  },
+  {
+    "id": "txn_425",
+    "userId": "user_3",
+    "date": "2025-08-25",
+    "description": "UPI payment to Netflix",
+    "amount": 247,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1631134
+  },
+  {
+    "id": "txn_382",
+    "userId": "user_3",
+    "date": "2025-08-26",
+    "description": "Salary credited by Sahni-Rajan",
+    "amount": 124168,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 1356030
+  },
+  {
+    "id": "txn_415",
+    "userId": "user_3",
+    "date": "2025-08-28",
+    "description": "Card payment at Swiggy",
+    "amount": 131,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1438096
+  },
+  {
+    "id": "txn_324",
+    "userId": "user_3",
+    "date": "2025-08-29",
+    "description": "Salary credited by D’Alia-Master",
+    "amount": 106856,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 334627
+  },
+  {
+    "id": "txn_410",
+    "userId": "user_3",
+    "date": "2025-09-01",
+    "description": "Net banking transfer to Mobile Recharge",
+    "amount": 1725,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1431347
+  },
+  {
+    "id": "txn_313",
+    "userId": "user_3",
+    "date": "2025-09-03",
+    "description": "Card payment at Flipkart",
+    "amount": 2592,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 149019
+  },
+  {
+    "id": "txn_356",
+    "userId": "user_3",
+    "date": "2025-09-03",
+    "description": "UPI payment to Petrol",
+    "amount": 838,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 713444
+  },
+  {
+    "id": "txn_359",
+    "userId": "user_3",
+    "date": "2025-09-03",
+    "description": "Net banking transfer to Spotify",
+    "amount": 812,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 709950
+  },
+  {
+    "id": "txn_373",
+    "userId": "user_3",
+    "date": "2025-09-04",
+    "description": "Card payment at Medical",
+    "amount": 2463,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1031827
+  },
+  {
+    "id": "txn_386",
+    "userId": "user_3",
+    "date": "2025-09-04",
+    "description": "UPI payment to ATM Withdrawal",
+    "amount": 491,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1345681
+  },
+  {
+    "id": "txn_400",
+    "userId": "user_3",
+    "date": "2025-09-04",
+    "description": "UPI payment to ATM Withdrawal",
+    "amount": 2165,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1445584
+  },
+  {
+    "id": "txn_308",
+    "userId": "user_3",
+    "date": "2025-09-05",
+    "description": "UPI payment to Groceries",
+    "amount": 1242,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 162220
+  },
+  {
+    "id": "txn_366",
+    "userId": "user_3",
+    "date": "2025-09-05",
+    "description": "Salary credited by Chawla, Hari and Patla",
+    "amount": 101903,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 943987
+  },
+  {
+    "id": "txn_307",
+    "userId": "user_3",
+    "date": "2025-09-10",
+    "description": "Card payment at Flight Booking",
+    "amount": 1534,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 163462
+  },
+  {
+    "id": "txn_304",
+    "userId": "user_3",
+    "date": "2025-09-11",
+    "description": "UPI payment to Spotify",
+    "amount": 958,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 187761
+  },
+  {
+    "id": "txn_310",
+    "userId": "user_3",
+    "date": "2025-09-12",
+    "description": "Net banking transfer to Movie Ticket",
+    "amount": 494,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 152971
+  },
+  {
+    "id": "txn_432",
+    "userId": "user_3",
+    "date": "2025-09-12",
+    "description": "Card payment at BookMyShow",
+    "amount": 541,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1613107
+  },
+  {
+    "id": "txn_377",
+    "userId": "user_3",
+    "date": "2025-09-16",
+    "description": "Net banking transfer to Train Ticket",
+    "amount": 1712,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1026811
+  },
+  {
+    "id": "txn_426",
+    "userId": "user_3",
+    "date": "2025-09-16",
+    "description": "Card payment at Rapido",
+    "amount": 1058,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1630076
+  },
+  {
+    "id": "txn_388",
+    "userId": "user_3",
+    "date": "2025-09-17",
+    "description": "Refund from Starbucks",
+    "amount": 856,
+    "type": "Credit",
+    "category": "Food",
+    "balance": 1345299
+  },
+  {
+    "id": "txn_436",
+    "userId": "user_3",
+    "date": "2025-09-19",
+    "description": "UPI payment to Swiggy",
+    "amount": 1356,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1664580
+  },
+  {
+    "id": "txn_301",
+    "userId": "user_3",
+    "date": "2025-09-20",
+    "description": "Net banking transfer to Insurance",
+    "amount": 2972,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 191998
+  },
+  {
+    "id": "txn_389",
+    "userId": "user_3",
+    "date": "2025-09-20",
+    "description": "UPI payment to Starbucks",
+    "amount": 1237,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1344062
+  },
+  {
+    "id": "txn_335",
+    "userId": "user_3",
+    "date": "2025-09-21",
+    "description": "Net banking transfer to Amazon Prime",
+    "amount": 214,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 660923
+  },
+  {
+    "id": "txn_363",
+    "userId": "user_3",
+    "date": "2025-09-22",
+    "description": "UPI payment to Netflix",
+    "amount": 313,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 843396
+  },
+  {
+    "id": "txn_441",
+    "userId": "user_3",
+    "date": "2025-09-22",
+    "description": "UPI payment to Internet Bill",
+    "amount": 1444,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1657221
+  },
+  {
+    "id": "txn_338",
+    "userId": "user_3",
+    "date": "2025-09-23",
+    "description": "Card payment at Groceries",
+    "amount": 2135,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 657873
+  },
+  {
+    "id": "txn_395",
+    "userId": "user_3",
+    "date": "2025-09-23",
+    "description": "UPI payment to Myntra",
+    "amount": 4683,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1450892
+  },
+  {
+    "id": "txn_368",
+    "userId": "user_3",
+    "date": "2025-09-25",
+    "description": "Card payment at Amazon Prime",
+    "amount": 915,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 939366
+  },
+  {
+    "id": "txn_405",
+    "userId": "user_3",
+    "date": "2025-09-26",
+    "description": "Net banking transfer to Local Restaurant",
+    "amount": 1235,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 1446617
+  },
+  {
+    "id": "txn_306",
+    "userId": "user_3",
+    "date": "2025-09-28",
+    "description": "UPI payment to House Rent",
+    "amount": 21870,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 164996
+  },
+  {
+    "id": "txn_353",
+    "userId": "user_3",
+    "date": "2025-09-28",
+    "description": "Refund from Uber",
+    "amount": 1083,
+    "type": "Credit",
+    "category": "Travel",
+    "balance": 717530
+  },
+  {
+    "id": "txn_383",
+    "userId": "user_3",
+    "date": "2025-09-30",
+    "description": "Net banking transfer to Amazon",
+    "amount": 4915,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1351115
+  },
+  {
+    "id": "txn_343",
+    "userId": "user_3",
+    "date": "2025-10-01",
+    "description": "Net banking transfer to Insurance",
+    "amount": 2572,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 749182
+  },
+  {
+    "id": "txn_429",
+    "userId": "user_3",
+    "date": "2025-10-01",
+    "description": "Card payment at Ajio",
+    "amount": 744,
+    "type": "Debit",
+    "category": "Shopping",
+    "balance": 1624908
+  },
+  {
+    "id": "txn_309",
+    "userId": "user_3",
+    "date": "2025-10-03",
+    "description": "Net banking transfer to House Rent",
+    "amount": 8755,
+    "type": "Debit",
+    "category": "Rent",
+    "balance": 153465
+  },
+  {
+    "id": "txn_325",
+    "userId": "user_3",
+    "date": "2025-10-03",
+    "description": "Salary credited by Bhattacharyya, Sama and Dutta",
+    "amount": 106633,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 441260
+  },
+  {
+    "id": "txn_302",
+    "userId": "user_3",
+    "date": "2025-10-04",
+    "description": "UPI payment to Train Ticket",
+    "amount": 1945,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 190053
+  },
+  {
+    "id": "txn_358",
+    "userId": "user_3",
+    "date": "2025-10-05",
+    "description": "Card payment at Netflix",
+    "amount": 882,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 710762
+  },
+  {
+    "id": "txn_428",
+    "userId": "user_3",
+    "date": "2025-10-05",
+    "description": "Net banking transfer to Insurance",
+    "amount": 2087,
+    "type": "Debit",
+    "category": "Others",
+    "balance": 1625652
+  },
+  {
+    "id": "txn_349",
+    "userId": "user_3",
+    "date": "2025-10-06",
+    "description": "Net banking transfer to McDonald's",
+    "amount": 1493,
+    "type": "Debit",
+    "category": "Food",
+    "balance": 741222
+  },
+  {
+    "id": "txn_331",
+    "userId": "user_3",
+    "date": "2025-10-11",
+    "description": "Salary credited by Vaidya-Ravel",
+    "amount": 82320,
+    "type": "Credit",
+    "category": "Salary",
+    "balance": 661737
+  },
+  {
+    "id": "txn_390",
+    "userId": "user_3",
+    "date": "2025-10-12",
+    "description": "Net banking transfer to Water Bill",
+    "amount": 696,
+    "type": "Debit",
+    "category": "Utilities",
+    "balance": 1343366
+  },
+  {
+    "id": "txn_448",
+    "userId": "user_3",
+    "date": "2025-10-12",
+    "description": "Net banking transfer to Flight Booking",
+    "amount": 1249,
+    "type": "Debit",
+    "category": "Travel",
+    "balance": 1840229
+  },
+  {
+    "id": "txn_418",
+    "userId": "user_3",
+    "date": "2025-10-13",
+    "description": "Net banking transfer to Netflix",
+    "amount": 282,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1556699
+  },
+  {
+    "id": "txn_431",
+    "userId": "user_3",
+    "date": "2025-10-14",
+    "description": "Card payment at Movie Ticket",
+    "amount": 645,
+    "type": "Debit",
+    "category": "Entertainment",
+    "balance": 1613648
+  }
+]
