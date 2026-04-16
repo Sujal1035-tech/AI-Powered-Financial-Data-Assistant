@@ -221,34 +221,4 @@ Transactions:
 Your biggest single expense was an Amazon purchase of ₹2,500.
 ```
 
-## 🎨 Bonus Features Implemented
 
-✅ Date range filters using natural language
-✅ Visual charts of expenses by category
-✅ Multi-user support with isolated queries
-✅ RAG-based pipeline (Vector retrieval + LLM summarization)
-✅ Interactive Streamlit dashboard
-✅ Export functionality (CSV download)
-
-## 🐛 Troubleshooting
-
-### Issue: "GROQ_API_KEY not found"
-**Solution**: Make sure you've created a `.env` file with your Groq API key.
-
-### Issue: "Collection not found"
-**Solution**: Run the vector database initialization:
-```bash
-python -m services.vector_search_service
-```
-
-### Issue: "No module named 'sentence_transformers'"
-**Solution**: Install all dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-
-
----
-
-Built with ❤️ using Python, ChromaDB, Groq & Streamlit
